@@ -1300,21 +1300,16 @@ header .header_box ul.gnb>li:hover>a {
 }
 .vision h2 {
     padding-left: 458px;
-    padding-top: 98px;
+    padding-top: 92px;
 }
 .vision .seona_img {
     float: left;
     padding-left: 458px;
-    padding-top: 258px;
+    padding-top: 190px;
 }
 .vision .seona_img img {
     width: 420px;
     height: 550px;
-}
-.vision .seona_img li {
-    width: 420px;
-    height: 550px;
-    background: #ccc;
 }
 .vision .future_con {
     text-align: left;
@@ -1323,27 +1318,27 @@ header .header_box ul.gnb>li:hover>a {
 .vision .future_con .year01 {
     float: left;
     padding-left: 149px;
-    padding-top: 135px;
+    padding-top: 100px;
     vertical-align: top;
     font-size: 20px;
 }
 .vision .future_con .year01_txt {
     float: left;
     padding-left: 7px;
-    padding-top: 135px;
+    padding-top: 100px;
     color: #498673;
     font-size: 20px;
 }
 .vision .future_con .year01_t {
     float: left;
     padding-left: 7px;
-    padding-top: 135px;
+    padding-top: 100px;
     font-size: 20px;
 }
 .vision .future_con ul.year01_ex {
     position: absolute;
     left: 1177px;
-    top: 310px;
+    top: 235px;
 }
 .vision .future_con ul.year01_ex li {
     width: 400px;
@@ -1373,7 +1368,7 @@ header .header_box ul.gnb>li:hover>a {
 .vision .future_con ul.year03_ex {
     position: absolute;
     left: 1177px;
-    top: 495px;
+    top: 425px;
 }
 .vision .future_con ul.year03_ex li {
     width: 430px;
@@ -1384,26 +1379,26 @@ header .header_box ul.gnb>li:hover>a {
 .vision .future_con .year05 {
     float: left;
     padding-left: 149px;
-    padding-top: 60px;
+    padding-top: 65px;
     font-size: 20px;
 }
-.vision .future_con .year05_txt{
+.vision .future_con .year05_txt {
     float: left;
     padding-left: 7px;
-    padding-top: 60px;
+    padding-top: 65px;
     color: #498673;
     font-size: 20px;
 }
-.vision .future_con .year05_t{
+.vision .future_con .year05_t {
     float: left;
     padding-left: 7px;
-    padding-top: 60px;
+    padding-top: 65px;
     font-size: 20px;
 }
 .vision .future_con ul.year05_ex {
     position: absolute;
     left: 1177px;
-    top: 645px;
+    top: 580px;
 }
 .vision .future_con ul.year05_ex li {
     width: 430px;
