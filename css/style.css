@@ -209,30 +209,6 @@ header .header_box ul.gnb>li:hover>a {
     color: #264F2A;
     font-family: 'Noto Sans KR', sans-serif;
 }
-.about_me .designer_ex2 {
-    position: absolute;
-    left: 834px;
-    top: 442px;
-    z-index: 2;
-}
-.about_me .designer_ex2 li {
-    font-size: 24px;
-    font-weight: bold;
-    color: #264F2A;
-    font-family: 'Noto Sans KR', sans-serif;
-}
-.about_me .designer_ex3 {
-    position: absolute;
-    left: 834px;
-    top: 442px;
-    z-index: 1;
-}
-.about_me .designer_ex3 li {
-    font-size: 24px;
-    font-weight: bold;
-    color: #264F2A;
-    font-family: 'Noto Sans KR', sans-serif;
-}
 .about_me ul.seona {
     position: absolute;
     left: 1288px;
