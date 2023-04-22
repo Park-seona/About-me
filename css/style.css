@@ -132,12 +132,9 @@ header .header_box ul.gnb>li:hover>a {
 }
 .about_me .me3_box {
     position: absolute;
-    left: 1119px;
-    top: 103px;
-    width: 225px;
-    height: 352px;
+    left: 1055px;
+    top: 107px;
     background-color: #ddd;
-    transform: rotate(90deg);
 }
 .about_me h1 {
     position: absolute;
