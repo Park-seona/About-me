@@ -40,18 +40,14 @@ header .header_box {
 }
 header .header_box .me_img {
     position: absolute;
-    padding-left: 998px;
-}
-header .header_box .me_img img {
-    width: 537.44px;
-    height: 800px;
+    padding-left: 700px;
 }
 header .header_box .about_txt {
     position: absolute;
-    left: 226px;
+    left: 142px;
     top: 530px;
     font-size: 200px;
-    color: rgba(195, 211, 187, 0.4);
+    color: rgba(132, 170, 113, 0.5);
 }
 header .header_box h1 {
     float: left;
