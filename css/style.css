@@ -38,9 +38,11 @@ header .header_box {
     width: 1920px;
     height: 800px;
 }
-header .header_box .me_img {
+header .header_box .me_img img {
+    /* float: right; */
     position: absolute;
-    padding-left: 700px;
+    left: 1050px;
+    top: 0;
 }
 header .header_box .about_txt {
     position: absolute;
@@ -1172,14 +1174,13 @@ header .header_box ul.gnb>li:hover>a {
 .design_skill ul.cir1_txt {
     text-align: left;
 }
-.design_skill ul.cir1_txt p {
+.design_skill ul.cir1_txt h3 {
     float: left;
     padding-left: 534px;
     padding-top: 296px;
     font-size: 24px;
     font-weight: bold;
     color: #fff;
-    position: relative;
 }
 .design_skill ul.cir1_txt li {
     position: absolute;
@@ -1207,14 +1208,13 @@ header .header_box ul.gnb>li:hover>a {
     text-align: left;
     position: relative;
 }
-.design_skill ul.cir2_txt p {
+.design_skill ul.cir2_txt h3 {
     position: absolute;
     left: 906px;
     top: -32px;
     font-size: 24px;
     font-weight: bold;
     color: #fff;
-    position: relative;
 }
 .design_skill ul.cir2_txt li {
     position: absolute;
@@ -1242,19 +1242,18 @@ header .header_box ul.gnb>li:hover>a {
     text-align: left;
     position: relative;
 }
-.design_skill ul.cir3_txt p {
+.design_skill ul.cir3_txt h3 {
     position: absolute;
     left: 1250px;
-    top: -60px;
+    top: -32px;
     font-size: 24px;
     font-weight: bold;
     color: #fff;
-    position: relative;
 }
 .design_skill ul.cir3_txt li {
     position: absolute;
     left: 1184px;
-    top: 1px;
+    top: 35px;
     width: 284px;
     height: 69px;
     color: #fff;
